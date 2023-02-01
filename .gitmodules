@@ -2,3 +2,8 @@
 	path = CAPW-Servicios-Tecnicos/ualett_custom
 	url = git@github.com:CAPW-Servicios-Tecnicos/ualett_custom.git
 	branch = 15.0
+
+[submodule "CAPW-Servicios-Tecnicos/account_reports_ualett"]
+	path = CAPW-Servicios-Tecnicos/account_reports_ualett
+	url = git@github.com:CAPW-Servicios-Tecnicos/account_reports_ualett.git
+	branch = 15.0
